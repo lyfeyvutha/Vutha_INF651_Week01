@@ -1,4 +1,4 @@
-# beginner-html-site-styled
-A simple one page website created to help complete beginners learn HTML basics, which in this repo has also been styled to help beginners learn CSS basics. The styling is explained over the course of [https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/CSS_basics](https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/CSS_basics).
+# Assignment01
+Go to the following link: https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics
 
-[Run the example live](http://mdn.github.io/beginner-html-site-styled/).
+On that page, scroll down to "A 'hello world' example". Follow the step-by-step instructions to download their code and edit it in your development environment. Also, initialize git to use with your project.
